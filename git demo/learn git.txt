@@ -1,0 +1,1 @@
+git pull rest soft reset hard rreset git fb etch git merge git status log branch tag
